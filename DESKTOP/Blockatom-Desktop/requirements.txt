@@ -1,0 +1,7 @@
+qrcode==7.3.1
+clipboard==0.0.4
+requests==2.26.0
+beautifulsoup4==4.10.0
+PyQt5==5.15.6
+pywallet==0.1.0
+bit==0.7.2
