@@ -2,7 +2,7 @@ from pywallet import *
 from pywallet.utils import *
 
 def generic_address(index):
-    seed = 'usage good bronze peasant find trouble rate stock guitar monkey awake alpha'
+    seed = ''
     master_key = wallet.HDPrivateKey.master_key_from_mnemonic(seed)
     root_keys = wallet.HDKey.from_path(master_key, "m/44'/0'/0'/0")[-1].public_key.to_b58check()
     xpublic_key = (root_keys)
