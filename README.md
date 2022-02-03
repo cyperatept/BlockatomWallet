@@ -11,4 +11,4 @@ The desktop application uses a local wallet file which acts as the key to the wa
 
 SCREENSHOTS AND VIDEO 
  
-![Image alt]{https://i.imgur.com/ChnBBMw.jpg}
+![Image alt](https://i.imgur.com/ChnBBMw.jpg)
