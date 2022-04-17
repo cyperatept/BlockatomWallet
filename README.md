@@ -1,5 +1,4 @@
 # BlockatomWallet - Open Source Bitcoin Project 
-# Developer by Nikita (@sensords) 
 
 Blockatom Wallet is a project, bitcoin desktop wallet, telegram bot client. 
 
